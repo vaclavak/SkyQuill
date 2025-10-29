@@ -2,6 +2,8 @@
 
 ![SkyQuill Banner](https://raw.githubusercontent.com/vaclavak/SkyQuill/main/src/main/resources/assets/Logo.png)
 
+Have any questions or suggestions? Join our discord [here](https://discord.gg/4YV6d4h8xW)
+
 SkyQuill is a mod designed to provide additional features that other SkyBlock mods don't have and enhance your SkyBlock experience.
 
 ---
